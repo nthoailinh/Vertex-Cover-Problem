@@ -1,0 +1,28 @@
+# Directed graph (each unordered pair of nodes is saved once): demo.txt
+# A small graph for testing
+# Nodes: 10 Edges: 24
+# FromNodeId	ToNodeId
+1 2
+1 6
+1 7
+2 1
+2 3
+2 4
+3 2
+3 4
+3 5
+4 2
+4 3
+4 5
+5 3
+5 4
+5 6
+6 1
+6 5
+6 7
+7 1
+7 6
+8 9
+8 10
+9 8
+10 8
